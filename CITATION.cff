@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following paper."
+title: "cDSP-BO-ICME: Single-objective Bayesian Optimization with cDSP for ICME"
+authors:
+  - family-names: Digonta
+    given-names: H. M. Dilshad Alam
+    affiliation: "Systems Realization Laboratory @ FIT, Florida Institute of Technology"
+  - family-names: Ghasemzadeh
+    given-names: Maryam
+    affiliation: "University College Dublin"
+    email: ghasemzadeh.m1992@gmail.com
+  - family-names: van Beek
+    given-names: Anton
+    affiliation: "University College Dublin"
+  - family-names: Nellippallil
+    given-names: Anand Balu
+    affiliation: "Systems Realization Laboratory @ FIT, Florida Institute of Technology"
+license: MIT
+keywords:
+  - Bayesian Optimization
+  - Gaussian Process
+  - compromise Decision Support Problem
+  - cDSP
+  - Robust Design
+  - Uncertainty Quantification
+  - ICME
+preferred-citation:
+  type: article
+  title: "Design for ICME — A Data-Driven Decision Support Framework for Quantifying and Managing Uncertainty"
+  authors:
+    - family-names: Digonta
+      given-names: H. M. Dilshad Alam
+    - family-names: Ghasemzadeh
+      given-names: Maryam
+    - family-names: van Beek
+      given-names: Anton
+    - family-names: Nellippallil
+      given-names: Anand Balu
+  year: 2025
+  journal: "Integrating Materials and Manufacturing Innovation"
