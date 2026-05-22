@@ -135,7 +135,7 @@ If you use this code in your research, please cite the paper:
   author  = {Digonta, H. M. Dilshad Alam and Ghasemzadeh, Maryam and
              van Beek, Anton and Nellippallil, Anand Balu},
   journal = {Integrating Materials and Manufacturing Innovation},
-  year    = {2025}
+  year    = {2026}
 }
 ```
 
@@ -152,6 +152,6 @@ Released under the MIT License — see [`LICENSE`](LICENSE).
 ## Contact
 
 - Maryam Ghasemzadeh — University College Dublin (UCD)
-- Systems Realization Laboratory @ FIT — Florida Institute of Technology
+  
 
 Issues and pull requests are welcome.
