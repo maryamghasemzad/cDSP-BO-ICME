@@ -152,6 +152,7 @@ Released under the MIT License — see [`LICENSE`](LICENSE).
 ## Contact
 
 - Maryam Ghasemzadeh — University College Dublin (UCD)
+- H M Dilshad Alam Digonta - Florida Institute of Technology
   
 
 Issues and pull requests are welcome.
